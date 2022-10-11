@@ -14,7 +14,7 @@ import co.pacastrillonp.dialogsample.components.catalog.NegativeButton
 import co.pacastrillonp.dialogsample.components.catalog.PositiveButton
 
 @Composable
-fun CompleteDialogContent(
+fun UpdateDialogContent(
     title: String,
     onNegativeClick: () -> Unit,
     onPositiveClick: () -> Unit

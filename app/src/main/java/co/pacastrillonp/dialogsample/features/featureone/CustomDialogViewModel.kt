@@ -2,7 +2,7 @@ package co.pacastrillonp.dialogsample.features.featureone
 
 import androidx.lifecycle.ViewModel
 
-class SomeScreenViewModel : ViewModel(){
+class CustomDialogViewModel : ViewModel(){
 
     fun doSomething() {
 
