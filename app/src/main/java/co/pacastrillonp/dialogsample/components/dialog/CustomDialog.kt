@@ -6,6 +6,7 @@ import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import androidx.lifecycle.viewmodel.compose.viewModel
 import co.pacastrillonp.dialogsample.components.UpdateDialogContent
+import co.pacastrillonp.dialogsample.components.dialog.CustomDialogViewModel
 
 @Composable
 fun CustomDialog(
